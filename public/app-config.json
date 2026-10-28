@@ -1,0 +1,21 @@
+{
+  "url": "https://nenao4ke.github.io/seed-catalog/",
+  "orderRecipientEmail": "frost.compose.43@gmail.com",
+  "orderSubject": "Замовлення насіння — Квіткова комора",
+  "onlineCatalogCsvUrl": "https://docs.google.com/spreadsheets/d/e/2PACX-1vQGW9AWiogbJ6Es6VOOzi28SxhmYoMsYltTJS1NZdngJ3SUtYs4EygklyJkmQMtpFjGmZQwpi1v3RwO/pub?output=csv",
+  "telegramChatUrl": "https://t.me/NE_NA_O4KE",
+  "googleFontsStylesheetUrl": "https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:ital,wght@0,500;0,600;1,500;1,600&display=swap",
+  "banner": {
+    "text": "Каталог у процесі заповнення! Дані можуть бути неточними або відсутніми."
+  },
+  "categories": [
+    "Однорічники",
+    "Дворічники",
+    "Багаторічники",
+    "Помідори",
+    "Жоржини",
+    "Хризантеми",
+    "Саджанці квітів",
+    "Інше"
+  ]
+}
