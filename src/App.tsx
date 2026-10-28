@@ -84,7 +84,7 @@ export default function App({ config }: { config: AppConfig }) {
     try {
       return localStorage.getItem('flower-seeds-mode') === 'online' ? 'online' : 'local';
     } catch {
-      return 'local';
+      return 'online';
     }
   });
   const [seeds, setSeeds] = useState<Seed[]>(() => {
