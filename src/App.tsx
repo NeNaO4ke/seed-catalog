@@ -82,7 +82,7 @@ const reconcileCart = (lines: CartLine[], catalog: Seed[]): CartLine[] => {
 export default function App({ config }: { config: AppConfig }) {
   const [mode, setMode] = useState<CatalogMode>(() => {
     try {
-      return localStorage.getItem('flower-seeds-mode') === 'online' ? 'online' : 'local';
+      return localStorage.getItem('flower-seeds-mode') === 'local' ? 'local' : 'online';
     } catch {
       return 'online';
     }
